@@ -1,0 +1,127 @@
+    body {
+    background-color: #CEE3F6;
+}
+
+header {
+    text-align: center;
+    background-color: #A9BCF5;
+    padding: 10;
+    border: 2px solid #8181F7;
+    margin: auto;
+    width: 95%;
+    height: 90px;
+}
+
+#container {
+    display: flex;
+    background-color: #A9BCF5;
+    border: 2px solid #8181F7;
+    margin: auto;
+    margin-top: 10px;
+    width: 95%;
+}
+
+#photo {
+    float: left;
+}
+#left-box {
+    float: left;
+    font-size: 16px;
+    text-align: left;
+    color: white;
+    background-color: rgb(9, 30, 45);
+    border: 2px solid #8181F7;
+    margin: 10px;
+    margin-top: 10px;
+    width: 25%;
+  }
+
+    #entprofil {
+        text-align: left;
+        border: 2px solid white;
+        margin: 10px
+    }
+    #etatcivil {
+        text-align: left;
+        border: 2px solid white;
+        margin: 10px
+    }
+    #langues {
+        text-align: left;
+        border: 2px solid white;
+        margin: 10px;
+    }
+    #loisirs {
+        text-align: left;
+        border: 2px solid white;
+        margin: 10px;
+    }
+    #right-box {
+        text-align: center;
+        background-color: #A9BCF5;
+        border: 2px solid #8181F7;
+        margin: 10px;
+        margin-top: 10px;
+        width: 75%;
+    }
+    #experiences-box {
+        text-align: center;
+        background-color: white;
+        border: 2px solid #8181F7;
+        margin: auto;
+        margin-top: 10px;
+        width: 95%;
+    }
+    .ipsen {
+        background-color: rgb(9, 30, 45);
+        color: white;
+        text-align: left;
+        border: 2px solid blue;
+        margin: 20px;
+    }
+    .metalor {
+        background-color: rgb(9, 30, 45);
+        color: white;
+        text-align: left;
+        border: 2px solid blue;
+        margin: 20px;
+    }
+    #studies-box {
+        text-align: center;
+        background-color: white;
+        border: 2px solid #8181F7;
+        margin: auto;
+        margin-top: 10px;
+        width: 95%;
+    }
+    .bac {
+        background-color: rgb(9, 30, 45);
+        color: white;
+        text-align: left;
+        border: 2px solid blue;
+        margin: 20px;
+    }
+    .bts {
+        background-color: rgb(9, 30, 45);
+        color: white;
+        text-align: left;
+        border: 2px solid blue;
+        margin: 20px;
+    }
+    .itil {
+        background-color: rgb(9, 30, 45);
+        color: white;
+        text-align: left;
+        border: 2px solid blue;
+        margin: 20px;
+    }
+    #footer {
+        text-align: left;
+        font-style: oblique;
+        background-color: #A9BCF5;
+        border: 2px solid #8181F7;
+        margin: auto;
+        margin-top: 10px;
+        width: 95%;
+        height: 100px;
+    }
